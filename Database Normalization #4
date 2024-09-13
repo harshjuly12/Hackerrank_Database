@@ -1,0 +1,5 @@
+A database, normalized as per 2NF rules, has been split into 10 tables. Each of the tables has exactly two columns: 
+one key attribute and one non-key attribute. What is the minimum number of tables required to express this database in 3NF form? 
+Enter the integer in the text box below. Do not leave any leading or trailing spaces.
+
+ans. 10
